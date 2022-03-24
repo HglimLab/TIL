@@ -1,3 +1,54 @@
+# 2022.03.24
+### LINUX 기본 명령어
+`ctrl + shift v'
+- 붙여넣기
+
+`:q :wq :q!`
+- 끄기, 저장 끝내기, 변경 사항 저장 안하고 끄기
+
+`ctrl + c`
+- 종료
+
+`vim, gedit`
+- text editor(터미널 안에서 작업), 메모장 켜줌
+
+`Tab`
+- 자동 완성
+
+`source`
+- 실행
+
+`ls, ls -a`
+- 숨김 파일 보기, 파일 리스트 보기
+
+`cd ./, ../, ~/`
+- Change Directory, 현재 위치, 이전 위치, 홈
+
+`nautilus`
+- 폴더 열기
+
+`kiilg`
+- 강제 종료
+
+`touch 파일명`
+- 새 파일 만들기
+
+`cbp`
+- 패키지 실행하기
+
+`cat`
+- 파일 실행
+
+`mkdir a`
+- a라는 폴더(디렉토리) 만들기
+
+`pwd`
+- 현재 작업 중인 디렉토리 보기
+
+`cp -r a b`
+- a를 b폴더에 복사
+
+
 # 01/04
 ### LINUX
 `unzip -l compressed.zip`
