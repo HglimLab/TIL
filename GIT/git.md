@@ -2,6 +2,45 @@
 ### github 특징
 - 다른 사람들과 공유 가능.
 - 현재 시점 외에 이전 시점으로 돌아갈 수 있다.(시범적인 코딩이 가능하다.)
+- 참고 유튜브 : https://www.youtube.com/watch?v=GaKjTjwcKQo&list=PLpO7kx5DnyIF-jXg6bBhLAS9WQt5metRJ&index=4
+- git 설치 필수
+
+### github local 주고 받기
+`git clone 깃 주소 .`
+- .(위치)로 clone 해오기
+
+`git add -A'
+- 전체 commit에 추가
+
+`git commit -m "AA"`
+- AA라는 이름으로 commit(MDS 저장 같은 것)
+
+`git status`
+- 현재 저장 상태 보기
+
+`git log`
+- 각 저장 log 확인(일련번호  확인)
+
+`git reset 일련번호앞6자리 --hard`
+- reset 전상태로 만듦(현재 시점으로 못 돌아옴)
+
+`git revert 일련6자리`
+- 전상태로 돌아감(현재 시점으로 돌아올 수 있음)
+
+`git branch my-idea
+- my-idea라는 branch로 평행우주 만듦(새작업 가능)
+
+`git checkout my-idea(master)`
+- my-idea(혹은 기존 master)에서 새작업
+
+`git push (저장소명) (branch 명)`
+- 깃허브에 업로드
+
+
+
+
+
+
 
 # 0103
 ### github
