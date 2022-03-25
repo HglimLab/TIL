@@ -398,6 +398,6 @@ def generate_launch_description():
         ]
     )
 ```
-- 아래 package 실행 파일 2개 확인 가능
+- package 실행 파일 2개 확인 가능
 
 
