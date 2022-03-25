@@ -9,7 +9,7 @@
 `git clone 깃 주소 .`
 - .(위치)로 clone 해오기
 
-`git add -A'
+`git add -A`
 - 전체 commit에 추가
 
 `git commit -m "AA"`
@@ -27,7 +27,7 @@
 `git revert 일련6자리`
 - 전상태로 돌아감(현재 시점으로 돌아올 수 있음)
 
-`git branch my-idea
+`git branch my-idea`
 - my-idea라는 branch로 평행우주 만듦(새작업 가능)
 
 `git checkout my-idea(master)`
@@ -36,7 +36,8 @@
 `git push (저장소명) (branch 명)`
 - 깃허브에 업로드
 
-
+`rm -r a`
+- 로컬에서 a 삭제
 
 
 
